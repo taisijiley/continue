@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-/*ключевое слово continue*/
+/*РєР»СЋС‡РµРІРѕРµ СЃР»РѕРІРѕ continue*/
 
 int main()
 {
@@ -9,7 +9,7 @@ int main()
 	{
 		if (i==5)
 		{
-			continue;// 5 пропускает
+			continue;// 5 РїСЂРѕРїСѓСЃРєР°РµС‚
 		}
 		cout << i << endl;
 	}
